@@ -1,0 +1,51 @@
+.gap {
+    margin-bottom: 50px;
+}
+
+.comics-content:hover .comics-img {
+    transform: scale(0.9, 0.9);
+    transition: all 0.5s;
+}
+
+.comics-img img {
+    object-fit: cover;
+    box-shadow: -5px -5px 20px 1px #e9945c;
+}
+
+.comics-content {
+    width: 300px;
+    position: relative;
+}
+
+.click {
+    position: absolute;
+    top: 91%;
+    left: 0%;
+    /* width: 100%; */
+    background-color: #333;
+    padding: 10px 97px;
+    display: none;
+    font-weight: 700;
+}
+
+.click a {
+    /* text-decoration: none;
+    color: #fff; */
+    border: none;
+    background-color: #333;
+    color: #fff;
+}
+
+.comics-content:hover .click {
+    display: block;
+
+}
+
+.click:hover {
+    background-color: #333;
+    transition: 0.5s;
+}
+
+.click:hover.click a {
+    color: #ff571e;
+}

@@ -1,0 +1,669 @@
+{
+  "books":[
+    {
+      "id":1,
+      "name":"Amster Hamster Trip",
+      "actual_price":200,
+      "discount_price":156,
+      "category":"Bestselling_book",
+      "author":"Jeannette Arroyo",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Amster Hamster Trip.jpg"
+    },
+      {
+      "id":2,
+      "name":"Beauty Unplugged",
+      "actual_price":300,
+      "discount_price":234,
+      "category":"Bestselling_book",
+      "author":"Joanna Lafuente ",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Beauty Unplugged.jpg"
+    },
+     {
+      "id":3,
+      "name":"Easy Fast Cooking",
+      "actual_price":250,
+      "discount_price":195,
+      "category":"Bestselling_book",
+      "author":"Joanna",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Easy Fast Cooking.jpg"
+    },
+     {
+      "id":4,
+      "name":"Fantasy Storytelling",
+      "actual_price":500,
+      "discount_price":390,
+      "category":"Bestselling_book",
+      "author":"Marco Checcetto",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Fantasy Storytelling.jpg"
+    },
+      {
+      "id":5,
+      "name":"Fashion Much",
+      "actual_price":400,
+      "discount_price":312,
+      "category":"Bestselling_book",
+      "author":"Cian Tormey",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Fashion Much.jpg"
+    },
+      {
+      "id":6,
+      "name":"Japan Travel Stories",
+      "actual_price":455,
+      "discount_price":354,
+      "category":"Bestselling_book",
+      "author":"Sylke Hachmeister",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Japan Travel Stories.jpg"
+    },
+        {
+      "id":7,
+      "name":"Star Wars The High Republic Adventures, Vol. 2",
+      "actual_price":100,
+      "discount_price":78,
+      "category":"Bestselling_book",
+      "author":"Cladia Gray",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Learn To Love Yourself.jpg"
+    },
+       {
+      "id":8,
+      "name":"Love Stories From Paris",
+      "actual_price":600,
+      "discount_price":468,
+      "category":"Bestselling_book",
+      "author":"Mat Lopes",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Love Stories From Paris.jpg"
+    },
+      {
+      "id":9,
+      "name":"Move a Bit",
+      "actual_price":120,
+      "discount_price":93,
+      "category":"Bestselling_book",
+      "author":"Kevin EastmanWelcome to St. Hell My Trans Teen Misadventure",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Move a Bit.jpg"
+    },
+     {
+      "id":10,
+      "name":"Summertime Love Stories",
+      "actual_price":150,
+      "discount_price":120,
+      "category":"Bestselling_book",
+      "author":"Lewis Hancox",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Summertime Love Stories.jpg"
+    },
+    {
+      "id":11,
+      "name":"Symphony Of Trilogy",
+      "actual_price":300,
+      "discount_price":234,
+      "category":"Bestselling_book",
+      "author":"Ann Cleeves",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Symphony Of Trilogy.jpg"
+    },
+     {
+      "id":12,
+      "name":"V Word",
+      "actual_price":800,
+      "discount_price":778,
+      "category":"Bestselling_book",
+      "author":"Sarah Gailey",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/V Word.jpg"
+    },
+    
+    {
+      "id":13,
+      "name":"Wellness And Paradise",
+      "actual_price":750,
+      "discount_price":585,
+      "category":"Bestselling_book",
+      "author":"Cormac McCarthy",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Wellness And Paradise.jpg"
+    },
+    
+     {
+      "id":14,
+      "name":"Winter Darkest Tragedy",
+      "actual_price":750,
+      "discount_price":585,
+      "category":"Bestselling_book",
+      "author":"James Tynion IV",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Winter Darkest Tragedy.jpg"
+    },
+     {
+      "id":15,
+      "name":"Youth Experience",
+      "actual_price":250,
+      "discount_price":195,
+      "category":"Bestselling_book",
+      "author":"John Flanagan",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Youth Experience.jpg"
+    },
+    
+     {
+      "id":16,
+      "name":"Renaissance History",
+      "actual_price":650,
+      "discount_price":507,
+      "category":"Bestselling_book",
+      "author":"Elizabeth Kilcoyne",
+      "availibility":"Available",
+      "img_url":"assets/img/Bestselling_books/Renaissance History.jpg"
+    },
+     {
+      "id":17,
+      "name":"Amster Hamster Trip",
+      "actual_price":150,
+      "discount_price":117,
+      "category":"Featured_book",
+      "author":"T.Kingfisher",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Amster Hamster Trip.jpg"
+    },
+     {
+      "id":18,
+      "name":"Beauty Unplugged",
+      "actual_price":900,
+      "discount_price":800,
+      "category":"Featured_book",
+      "author":"Sasha Laurens",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Beauty Unplugged.jpg"
+    },
+     {
+      "id":19,
+      "name":"Easy Fast Cooking",
+      "actual_price":456,
+      "discount_price":350,
+      "category":"Featured_book",
+      "author":"Nicholas Sparks",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Easy Fast Cooking.jpg"
+    },
+     
+     {
+      "id":20,
+      "name":"Fantasy Storytelling",
+      "actual_price":120,
+      "discount_price":100,
+      "category":"Featured_book",
+      "author":"Edith Grossman",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Fantasy Storytelling.jpg"
+    },
+    {
+      "id":21,
+      "name":"Japan Travel Stories",
+      "actual_price":800,
+      "discount_price":750,
+      "category":"Featured_book",
+      "author":"Diana Gabaldon",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Japan Travel Stories.jpg"
+    },
+     {
+      "id":22,
+      "name":"Fashion Much",
+      "actual_price":400,
+      "discount_price":350,
+      "category":"Featured_book",
+      "author":"Sylvia Day ",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Fashion Much.jpg"
+    },
+     {
+      "id":23,
+      "name":"Love Stories From Paris",
+      "actual_price":150,
+      "discount_price":120,
+      "category":"Featured_book",
+      "author":"Ali Hazelwood",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Love Stories From Paris.jpg"
+    },
+    {
+      "id":24,
+      "name":"Learn To Love Yourself",
+      "actual_price":140,
+      "discount_price":120,
+      "category":"Featured_book",
+      "author":"Rowan",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Learn To Love Yourself.jpg"
+    },
+     {
+      "id":25,
+      "name":"Move a Bit",
+      "actual_price":420,
+      "discount_price":323,
+      "category":"Featured_book",
+      "author":"Rowan",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Move a Bit.jpg"
+    },
+     {
+      "id":26,
+      "name":"Renaissance History",
+      "actual_price":235,
+      "discount_price":135,
+      "category":"Featured_book",
+      "author":"Alexis Daria",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Renaissance History.jpg"
+    },
+      {
+      "id":27,
+      "name":"Summertime Love Stories",
+      "actual_price":487,
+      "discount_price":450,
+      "category":"Featured_book",
+      "author":"Marcin Minor",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Summertime Love Stories.jpg"
+    },
+     {
+      "id":28,
+      "name":"Symphony Of Trilogy",
+      "actual_price":125,
+      "discount_price":100,
+      "category":"Featured_book",
+      "author":"Brian Taylor",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Symphony Of Trilogy.jpg"
+    },
+     {
+      "id":29,
+      "name":"V Word",
+      "actual_price":655,
+      "discount_price":500,
+      "category":"Featured_book",
+      "author":"Brian Taylor ",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/V Word.jpg"
+    },
+     {
+      "id":30,
+      "name":"Wellness And Paradise",
+      "actual_price":78,
+      "discount_price":60,
+      "category":"Featured_book",
+      "author":"Mat Heagerty",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Wellness And Paradise.jpg"
+    },
+     {
+      "id":31,
+      "name":"Winter Darkest Tragedy",
+      "actual_price":121,
+      "discount_price":109,
+      "category":"Featured_book",
+      "author":"Sam Owen",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Winter Darkest Tragedy.jpg"
+    },
+     {
+      "id":32,
+      "name":"Youth Experience",
+      "actual_price":321,
+      "discount_price":125,
+      "category":"Featured_book",
+      "author":"Ali Bahrampour",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Youth Experience.jpg"
+    },
+    {
+      "id":33,
+      "name":"Bad Data",
+      "actual_price":123,
+      "discount_price":111,
+      "category":"Featured_book",
+      "author":"James Patterson",
+      "availibility":"Available",
+      "img_url":"assets/img/Featured_books/Bad Data.jpg"
+    },
+     {
+      "id":34,
+      "name":"Amster Hamster Trip",
+      "actual_price":200,
+      "discount_price":156,
+      "category":"New_arrival",
+      "author":"Jeannette Arroyo",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Amster Hamster Trip.jpg"
+    },
+      {
+      "id":35,
+      "name":"Beauty Unplugged",
+      "actual_price":300,
+      "discount_price":234,
+      "category":"New_arrival",
+      "author":"Joanna Lafuente ",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Beauty Unplugged.jpg"
+    },
+     {
+      "id":36,
+      "name":"Easy Fast Cooking",
+      "actual_price":250,
+      "discount_price":195,
+      "category":"New_arrival",
+      "author":"Joanna",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Easy Fast Cooking.jpg"
+    },
+     {
+      "id":37,
+      "name":"Fantasy Storytelling",
+      "actual_price":500,
+      "discount_price":390,
+      "category":"New_arrival",
+      "author":"Marco Checcetto",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Fantasy Storytelling.jpg"
+    },
+      {
+      "id":38,
+      "name":"Fashion Much",
+      "actual_price":400,
+      "discount_price":312,
+      "category":"New_arrivals",
+      "author":"Cian Tormey",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Fashion Much.jpg"
+    },
+      {
+      "id":39,
+      "name":"Japan Travel Stories",
+      "actual_price":455,
+      "discount_price":354,
+      "category":"New_arrival",
+      "author":"Sylke Hachmeister",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Japan Travel Stories.jpg"
+    },
+        {
+      "id":41,
+      "name":"Learn To Love Yourself",
+      "actual_price":100,
+      "discount_price":78,
+      "category":"New_arrival",
+      "author":"Cladia Gray",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Learn To Love Yourself.jpg"
+    },
+       {
+      "id":42,
+      "name":"Love Stories From Paris",
+      "actual_price":600,
+      "discount_price":468,
+      "category":"New_arrival",
+      "author":"Mat Lopes",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Love Stories From Paris.jpg"
+    },
+      {
+      "id":43,
+      "name":"Move a Bit",
+      "actual_price":120,
+      "discount_price":93,
+      "category":"New_arrival",
+      "author":"Kevin EastmanWelcome to St. Hell My Trans Teen Misadventure",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Move a Bit.jpg"
+    },
+     {
+      "id":44,
+      "name":"Summertime Love Stories",
+      "actual_price":150,
+      "discount_price":120,
+      "category":"New_arrival",
+      "author":"Lewis Hancox",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Summertime Love Stories.jpg"
+    },
+    {
+      "id":45,
+      "name":"Symphony Of Trilogy",
+      "actual_price":300,
+      "discount_price":234,
+      "category":"New_arrival",
+      "author":"Ann Cleeves",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Symphony Of Trilogy.jpg"
+    },
+     {
+      "id":46,
+      "name":"V Word",
+      "actual_price":800,
+      "discount_price":778,
+      "category":"New_arrival",
+      "author":"Sarah Gailey",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/V Word.jpg"
+    },
+    {
+      "id":47,
+      "name":"Wellness And Paradise",
+      "actual_price":750,
+      "discount_price":585,
+      "category":"New_arrival",
+      "author":"Cormac McCarthy",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Wellness And Paradise.jpg"
+    },
+     {
+      "id":48,
+      "name":"Winter Darkest Tragedy",
+      "actual_price":750,
+      "discount_price":585,
+      "category":"New_arrival",
+      "author":"James Tynion IV",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Winter Darkest Tragedy.jpg"
+    },
+     {
+      "id":49,
+      "name":"Youth Experience",
+      "actual_price":250,
+      "discount_price":195,
+      "category":"New_arrival",
+      "author":"John Flanagan",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Youth Experience.jpg"
+    },
+    
+     {
+      "id":50,
+      "name":"Renaissance History",
+      "actual_price":650,
+      "discount_price":507,
+      "category":"New_arrival",
+      "author":"Elizabeth Kilcoyne",
+      "availibility":"Available",
+      "img_url":"assets/img/New_arrivals/Renaissance History.jpg"
+    },
+    {
+      "id":51,
+      "name":"Blackwater",
+      "actual_price":200,
+      "discount_price":156,
+      "category":"School_book",
+      "author":"Jeannette Arroyo",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Amster Hamster Trip.jpg"
+    },
+      {
+      "id":52,
+      "name":"Buffy the Last Vampire Slayer",
+      "actual_price":300,
+      "discount_price":234,
+      "category":"School_book",
+      "author":"Joanna Lafuente ",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Beauty Unplugged.jpg"
+    },
+     {
+      "id":53,
+      "name":"Crumbs",
+      "actual_price":250,
+      "discount_price":195,
+      "category":"School_book",
+      "author":"Joanna",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Easy Fast Cooking.jpg"
+    },
+     {
+      "id":54,
+      "name":"Devil's Reign A Marvel Event",
+      "actual_price":500,
+      "discount_price":390,
+      "category":"School_book",
+      "author":"Marco Checcetto",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Fantasy Storytelling.jpg"
+    },
+      {
+      "id":55,
+      "name":"Injustice Year Zero",
+      "actual_price":400,
+      "discount_price":312,
+      "category":"School_book",
+      "author":"Cian Tormey",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Fashion Much.jpg"
+    },
+      {
+      "id":56,
+      "name":"Saga",
+      "actual_price":455,
+      "discount_price":354,
+      "category":"School_book",
+      "author":"Sylke Hachmeister",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Japan Travel Stories.jpg"
+    },
+        {
+      "id":57,
+      "name":"Star Wars The High Republic Adventures, Vol. 2",
+      "actual_price":100,
+      "discount_price":78,
+      "category":"School_book",
+      "author":"Cladia Gray",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Learn To Love Yourself.jpg"
+    },
+       {
+      "id":58,
+      "name":"Love Stories From Paris",
+      "actual_price":600,
+      "discount_price":468,
+      "category":"School_book",
+      "author":"Mat Lopes",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Love Stories From Paris.jpg"
+    },
+      {
+      "id":59,
+      "name":"Move a Bit",
+      "actual_price":120,
+      "discount_price":93,
+      "category":"School_book",
+      "author":"Kevin EastmanWelcome to St. Hell My Trans Teen Misadventure",
+      "availibility":"Available",
+      "img_url":"assets/img/School_booksSchool_books/Move a Bit.jpg"
+    },
+     {
+      "id":60,
+      "name":"Summertime Love Stories",
+      "actual_price":150,
+      "discount_price":120,
+      "category":"School_book",
+      "author":"Lewis Hancox",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Summertime Love Stories.jpg"
+    },
+    {
+      "id":61,
+      "name":"Symphony Of Trilogy",
+      "actual_price":300,
+      "discount_price":234,
+      "category":"School_book",
+      "author":"Ann Cleeves",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Symphony Of Trilogy.jpg"
+    },
+     {
+      "id":62,
+      "name":"V Word",
+      "actual_price":800,
+      "discount_price":778,
+      "category":"School_book",
+      "author":"Sarah Gailey",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/V Word.jpg"
+    },
+    
+    {
+      "id":63,
+      "name":"Wellness And Paradise",
+      "actual_price":750,
+      "discount_price":585,
+      "category":"School_book",
+      "author":"Cormac McCarthy",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Wellness And Paradise.jpg"
+    },
+    
+     {
+      "id":64,
+      "name":"Winter Darkest Tragedy",
+      "actual_price":750,
+      "discount_price":585,
+      "category":"School_book",
+      "author":"James Tynion IV",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Winter Darkest Tragedy.jpg"
+    },
+     {
+      "id":65,
+      "name":"Youth Experience",
+      "actual_price":250,
+      "discount_price":195,
+      "category":"School_book",
+      "author":"John Flanagan",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Youth Experience.jpg"
+    },
+     {
+      "id":66,
+      "name":"Renaissance History",
+      "actual_price":650,
+      "discount_price":507,
+      "category":"School_book",
+      "author":"Elizabeth Kilcoyne",
+      "availibility":"Available",
+      "img_url":"assets/img/School_books/Renaissance History.jpg"
+    }
+    ],
+    "user":[
+      {
+        "username":"seemabbhoir",
+        "password":"123456789"
+      }
+    
+      ]
+    
+}
